@@ -1,4 +1,4 @@
-# E-Commerce Flutter App With FireBase
+# E-Commerce Flutter App With Firebase
 
 A new Flutter application.
 
