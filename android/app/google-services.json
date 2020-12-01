@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162991901382",
+    "firebase_url": "https://zarzor-shop.firebaseio.com",
+    "project_id": "zarzor-shop",
+    "storage_bucket": "zarzor-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162991901382:android:58e2923652f2bd55d4a5c7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162991901382-79ukm4n2b3e2fmm4k4jojr7he6bubm4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEOrEmtmhsByaqmyX5lBQ_T93-NAdWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162991901382-79ukm4n2b3e2fmm4k4jojr7he6bubm4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
